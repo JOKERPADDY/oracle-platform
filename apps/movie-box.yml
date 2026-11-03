@@ -1,0 +1,8 @@
+---
+name: movie-box
+port: 8080
+layout: single
+container_port: 8080
+image: ghcr.io/jokerpaddy/movie-box:latest
+env:
+  API_TOKEN: ""
